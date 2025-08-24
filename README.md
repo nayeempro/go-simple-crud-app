@@ -1,0 +1,4 @@
+-create
+-read(get all / get by id)
+-update (by id)
+-delete (deleted by id)
